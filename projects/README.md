@@ -13,8 +13,8 @@ This folder has the links to all the projects done during hackinthenorth hackath
                   ....
                   "<project-name>":{
                   		"image":"images/<image-name>",
-                  		"team":"<team name>",
-                  		"link":"<github link>"
+                  		"team":"troopers",
+                  		"link":"https://github.com/tj96/swastik.git"
                   	},
                   ....
     }
